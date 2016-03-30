@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VkMusicCopy</string>
+    <integer name="com_vk_sdk_AppId">5376448</integer>
+</resources>
